@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Watch snake eating my github contributions: ✨
 
-![snake gif](https://github.com/TharushiFernando/TharushiFernando/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/tharushifernando/tharushifernando/blob/output/github-contribution-grid-snake.svg)
